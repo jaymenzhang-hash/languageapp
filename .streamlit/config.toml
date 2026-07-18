@@ -1,0 +1,6 @@
+[theme]
+textColor = "#3aa02e"
+font = "Unica One:https://fonts.googleapis.com/css2?family=Unica+One&display=swap"
+baseFontSize = 24
+[client]
+toolbarMode = "minimal"
